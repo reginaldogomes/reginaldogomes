@@ -9,6 +9,8 @@ Desenvolvedor Front-end especializado em React, Next.js, e AWS. Apaixonado por c
 - **Cloud**: AWS (EC2, S3, Lambda, CloudFront)
 - **Outros**: Git, Docker, CI/CD
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=reginaldogomes&show_icons=true&theme=radical)
+
 ## 📫 Contato
 
 - **Email**: [reginaldo@bhsolutions.com.br](mailto:reginaldo@bhsolutions.com.br)

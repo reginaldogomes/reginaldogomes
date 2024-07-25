@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Olá! Eu sou Reginaldo Gomes
 
-<!--
-**reginaldogomes/reginaldogomes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Front-end especializado em React, Next.js, e AWS. Apaixonado por construir interfaces intuitivas e escaláveis. Sempre em busca de novos desafios e oportunidades de aprendizado.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias e Ferramentas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Linguagens**: JavaScript, TypeScript, Python
+- **Frameworks e Bibliotecas**: React, Next.js, Django, Tailwind CSS
+- **Cloud**: AWS (EC2, S3, Lambda, CloudFront)
+- **Outros**: Git, Docker, CI/CD
+
+## 📫 Contato
+
+- **Email**: [reginaldo@bhsolutions.com.br](mailto:reginaldo@bhsolutions.com.br)
+- **LinkedIn**: [seu-perfil-linkedin](https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/reginaldogomesalves/)

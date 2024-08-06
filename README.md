@@ -17,4 +17,4 @@ Atualmente, estou aprofundando meus conhecimentos em padrões de arquitetura, co
 
 - **Email**: [reginaldo@bhsolutions.com.br](mailto:reginaldo@bhsolutions.com.br)
 - **Portfolio**: https://reginaldogomes.com
-- **LinkedIn**: https://linkedin.com/in/seu-perfil](https://www.linkedin.com/in/reginaldogomesalves/
+- **LinkedIn**: https://www.linkedin.com/in/reginaldogomesalves/

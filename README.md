@@ -11,7 +11,7 @@ Atualmente, estou aprofundando meus conhecimentos em padrões de arquitetura, co
 - **Linguagens**: JavaScript, TypeScript, Python
 - **Frameworks e Bibliotecas**: React, Next.js, Django, Tailwind CSS
 - **Cloud**: AWS (EC2, S3, Lambda, CloudFront)
-- **Outros**: Git, Docker, CI/CD
+- **Outros**: Git, Docker, CI/CD, ChatGPT
 
 ## 📫 Contato
 

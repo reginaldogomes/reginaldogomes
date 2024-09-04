@@ -1,14 +1,10 @@
 # 👋 Olá! Eu sou Reginaldo Gomes
 
-Desenvolvedor Front-end especializado em React, Next.js, e AWS. Apaixonado por construir interfaces intuitivas e escaláveis. Sempre em busca de novos desafios e oportunidades de aprendizado.
-
-Atualmente, estou aprofundando meus conhecimentos em padrões de arquitetura, como Clean Architecture, Clean Code, SOLID e Domain-Driven Design (DDD). Estou constantemente em busca de aplicar as melhores práticas para desenvolver soluções robustas e escaláveis.
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=reginaldogomes&show_icons=true&theme=radical)
+Profissional de Cloud Computing com experiência em ambientes Multi-Cloud, especializado na implementação e gestão de Infraestrutura como Código (IaC) utilizando Terraform. Tenho vivência na administração de recursos em nuvens como AWS, Azure e Google Cloud, focando na automação, otimização de custos e conformidade de segurança.
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens**: JavaScript, TypeScript, Python
+- **Linguagens**: Python, JavaScript, TypeScript
 - **Frameworks e Bibliotecas**: React, Next.js, Django, Tailwind CSS
 - **Cloud**: AWS (EC2, S3, Lambda, CloudFront)
 - **Outros**: Git, Docker, CI/CD, ChatGPT

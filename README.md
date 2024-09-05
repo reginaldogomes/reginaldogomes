@@ -7,7 +7,8 @@ Analista DevOps especializado em Cloud Computing e Cibersegurança, com sólida 
 - **Cloud Computing**: AWS, Azure, GCP
 - **Infrastructure as Code (IaC)**: Terraform, Docker
 - **Automação e CI/CD**: Jenkins, GitLab CI, GitHub Actions
-- **Desenvolvimento Web**: Python, JavaScript, TypeScript 
+- **Desenvolvimento Web**: Python, JavaScript, TypeScript
+- **Sistemas de Informação**: Consultoria, Arquitetura e Desenvolvimento
 - **Cibersegurança e Gestão de Acessos**: Segurança da Informação, Ethical Hacking
 - **Monitoramento e Observabilidade**: Prometheus, Grafana, ELK Stack
 

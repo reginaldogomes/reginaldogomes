@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Reginaldo Gomes
 
-Profissional de Cloud Computing com experiência em ambientes Multi-Cloud, especializado na implementação e gestão de Infraestrutura como Código (IaC) utilizando Terraform. Tenho vivência na administração de recursos em nuvens como AWS, Azure e Google Cloud, focando na automação, otimização de custos e conformidade de segurança.
+Analista DevOps especializado em Cloud Computing e Cibersegurança, com sólida experiência em projetos de infraestrutura na nuvem e desenvolvimento de sistemas de informação. Atuo com automação e gerenciamento de ambientes de TI utilizando as principais plataformas de nuvem (AWS, Azure, GCP), com forte expertise em práticas de Infrastructure as Code (IaC) por meio de ferramentas como Terraform e Docker. Possuo habilidades avançadas na implementação de soluções seguras, escaláveis e eficientes, focadas na otimização de processos e alta disponibilidade.
 
 ## 🚀 Tecnologias e Ferramentas
 

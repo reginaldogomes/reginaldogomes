@@ -4,10 +4,12 @@ Profissional de Cloud Computing com experiência em ambientes Multi-Cloud, espec
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens**: Python, JavaScript, TypeScript
-- **Frameworks e Bibliotecas**: React, Next.js, Django, Tailwind CSS
-- **Cloud**: AWS (EC2, S3, Lambda, CloudFront)
-- **Outros**: Git, Docker, CI/CD, ChatGPT
+- **Cloud Computing**: AWS, Azure, GCP
+- **Infrastructure as Code (IaC)**: Terraform, Docker
+- **Automação e CI/CD**: Jenkins, GitLab CI, GitHub Actions
+- **Desenvolvimento Web**: Python, JavaScript, TypeScript 
+- **Cibersegurança e Gestão de Acessos**: Segurança da Informação 
+- **Monitoramento e Observabilidade**: Prometheus, Grafana, ELK Stack
 
 ## 📫 Contato
 

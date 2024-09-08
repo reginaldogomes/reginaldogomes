@@ -12,6 +12,14 @@ Analista DevOps especializado em Cloud Computing e Cibersegurança, com sólida 
 - **Cibersegurança e Gestão de Acessos**: Segurança da Informação, Ethical Hacking
 - **Monitoramento e Observabilidade**: Prometheus, Grafana, ELK Stack
 
+## 🚀 Tecnologias que utilizo
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=yellow)
+![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript&logoColor=blue)
+![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js&logoColor=green)
+![AWS](https://img.shields.io/badge/-AWS-181717?style=flat&logo=amazonaws&logoColor=orange)
+
 ## 📫 Contato
 
 - **Email**: [reginaldo@bhsolutions.com.br](mailto:reginaldo@bhsolutions.com.br)

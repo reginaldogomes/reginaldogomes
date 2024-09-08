@@ -14,11 +14,12 @@ Analista DevOps especializado em Cloud Computing e Cibersegurança, com sólida 
 
 ## 🚀 Tecnologias que utilizo
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-181717?style=flat&logo=javascript&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/-TypeScript-181717?style=flat&logo=typescript&logoColor=blue)
-![React](https://img.shields.io/badge/-React-181717?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/-Node.js-181717?style=flat&logo=node.js&logoColor=green)
-![AWS](https://img.shields.io/badge/-AWS-181717?style=flat&logo=amazonaws&logoColor=orange)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=orange)
+
 
 ## 📫 Contato
 

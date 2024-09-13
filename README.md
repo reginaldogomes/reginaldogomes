@@ -9,8 +9,8 @@ Analista DevOps especializado em Cloud Computing e Cibersegurança, com sólida 
 - **Automação e CI/CD**: GitHub Actions, Azure DevOps
 - **Linguagens de Programação**: Python, JavaScript, TypeScript
 - **Sistemas de Informação**: Consultoria, Arquitetura e Desenvolvimento
-- **Cibersegurança e Gestão de Acessos**: Segurança da Informação, Ethical Hacking
-- **Monitoramento e Observabilidade**: Prometheus, Grafana, ELK Stack
+- **Cibersegurança e Gestão de Acessos**: Segurança da Informação
+- **Monitoramento e Observabilidade**: Prometheus, Grafana
 
 ## 🚀 Stack
 

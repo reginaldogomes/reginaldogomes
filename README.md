@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Reginaldo Gomes
 
-Desenvolvedor Front-End com sólida experiência em JavaScript, especializado em React e Next.js para o desenvolvimento de interfaces modernas, dinâmicas e escaláveis. Atuo de forma consistente em ambientes de cloud computing, com foco em AWS, e aplico boas práticas de DevOps para automação e gerenciamento eficiente de infraestrutura. Além disso, tenho conhecimentos em cibersegurança, implementando medidas preventivas e corretivas ao longo de todo o ciclo de desenvolvimento, garantindo a segurança de dados e a integridade das aplicações. Comprometido em entregar soluções inovadoras e robustas, sempre alinhado às melhores práticas do mercado.
+Desenvolvedor Front-End com sólida experiência em JavaScript, especializado em React.js e Next.js para o desenvolvimento de interfaces modernas, dinâmicas e escaláveis. Atuo de forma consistente em ambientes de cloud computing, com foco em AWS, e aplico boas práticas de DevOps para automação e gerenciamento eficiente de infraestrutura. Além disso, tenho conhecimentos em cibersegurança, implementando medidas preventivas e corretivas ao longo de todo o ciclo de desenvolvimento, garantindo a segurança de dados e a integridade das aplicações. Comprometido em entregar soluções inovadoras e robustas, sempre alinhado às melhores práticas do mercado.
 
 ## 🚀 Tecnologias e Ferramentas
 

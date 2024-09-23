@@ -1,13 +1,15 @@
 # 👋 Olá! Eu sou Reginaldo Gomes
 
-Analista DevOps especializado em Cloud Computing e Cibersegurança, com sólida experiência em projetos de infraestrutura na nuvem e desenvolvimento de sistemas de informação. Atuo com automação e gerenciamento de ambientes de TI utilizando as principais plataformas de nuvem (AWS, Azure, GCP), com forte expertise em práticas de Infrastructure as Code (IaC) por meio de ferramentas como Terraform e Docker. Possuo habilidades avançadas na implementação de soluções seguras, escaláveis e eficientes, focadas na otimização de processos e alta disponibilidade.
+Desenvolvedor Front-End com sólida experiência em JavaScript, especializado em React e Next.js para o desenvolvimento de interfaces modernas, dinâmicas e escaláveis. Atuo de forma consistente em ambientes de cloud computing, com foco em AWS, e aplico boas práticas de DevOps para automação e gerenciamento eficiente de infraestrutura. Além disso, tenho conhecimentos em cibersegurança, implementando medidas preventivas e corretivas ao longo de todo o ciclo de desenvolvimento, garantindo a segurança de dados e a integridade das aplicações. Comprometido em entregar soluções inovadoras e robustas, sempre alinhado às melhores práticas do mercado.
 
 ## 🚀 Tecnologias e Ferramentas
 
+- **Linguagens de Programação**: JavaScript, TypeScript, Python
+- **Front-end**: React, Next e Tailwind
+- **Back-end**: Node, Express e Nest
 - **Cloud Computing**: AWS, Azure, GCP
 - **Infrastructure as Code (IaC)**: Terraform, Docker
 - **Automação e CI/CD**: GitHub Actions, Azure DevOps
-- **Linguagens de Programação**: Python, JavaScript, TypeScript
 - **Cibersegurança e Gestão de Acessos**: Segurança da Informação
 - **Monitoramento e Observabilidade**: Prometheus, Grafana
 
